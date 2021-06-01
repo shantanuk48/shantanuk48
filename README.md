@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @shantanuk48
-- 👀 I’m interested in data analytics and data science
-- 🌱 I’m currently learning google data analytics and intershala data science
-- 💞️ I’m looking to collaborate on every project that will peek my intrest
-- 📫 How to reach me  shantanuk48@gmail.com
+- Data Science and Business Analytics Task-1 (Predict the percentage of an student based on the no. of study hours) Using simple linear regression model, forecasting the marks of a student based on the numbers of hours studied per day. Tool(s) Used - Python (Jupyter Notebook)
 
 <!---
 shantanuk48/shantanuk48 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
